@@ -1,3 +1,3 @@
-# Runge_Kutta_4th_Order
+# Runge-Kutta 4th Order
 
 My Runge-Kutta 4th Order solver for ODE systems. 
